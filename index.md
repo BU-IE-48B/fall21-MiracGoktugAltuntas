@@ -1,1 +1,1 @@
-HALLO
+E ne şimdi
