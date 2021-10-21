@@ -1,1 +1,0 @@
-İsim önemli mi ki
