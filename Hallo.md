@@ -1,1 +1,0 @@
-BAKALIM BU NE
