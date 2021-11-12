@@ -1,3 +1,3 @@
-Mirac Goktug Altuntas
+Welcome to Miraç's GitHub Page
 
 
