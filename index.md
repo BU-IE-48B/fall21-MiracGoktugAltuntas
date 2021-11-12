@@ -1,5 +1,3 @@
-HERKESE MERHABA KANALIMA HOS GELDINIZ
-
 Mirac Goktug Altuntas
 
 
