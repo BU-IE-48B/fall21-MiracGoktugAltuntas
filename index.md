@@ -1,8 +1,6 @@
 ## Welcome to Miraç GitHub Pages
 
-You can visit my page from [here](https://github.com/BU-IE-48B/fall21-MiracGoktugAltuntas/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit my page from [here](https://bu-ie-48b.github.io/fall21-MiracGoktugAltuntas/) 
 
 ### HW1
 
