@@ -4,7 +4,6 @@ You can visit my page from [here](https://bu-ie-48b.github.io/fall21-MiracGoktug
 
 ### HW1
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 
