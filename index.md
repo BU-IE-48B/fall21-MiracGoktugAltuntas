@@ -4,7 +4,7 @@ You can visit my page from [here](https://bu-ie-48b.github.io/fall21-MiracGoktug
 
 ### HW1
 
-
+[HW1](https://github.com/BU-IE-48B/fall21-MiracGoktugAltuntas/blob/main/Hw1/HW1.ipynb)
 
 
 
