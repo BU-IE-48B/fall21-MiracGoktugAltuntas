@@ -12,5 +12,5 @@ You can see my second homework from [here](https://github.com/BU-IE-48B/fall21-M
 
 ### HW3
 
-You can see my second homework from [here](https://github.com/BU-IE-48B/fall21-MiracGoktugAltuntas/blob/main/HW3/HW3.ipynb)
+You can see my third homework from [here](https://github.com/BU-IE-48B/fall21-MiracGoktugAltuntas/blob/main/HW3/HW3.ipynb)
 
