@@ -18,5 +18,6 @@ You can see my third homework from [here](https://github.com/BU-IE-48B/fall21-Mi
 
 You can read our project report from [here](https://github.com/BU-IE-48B/fall21-MiracGoktugAltuntas/blob/main/Project/IE48B_Report.pdf)
 
-You can see our project code from [here]
+
+You can see our project code from [here](https://github.com/BU-IE-48B/fall21-MiracGoktugAltuntas/blob/main/Project/project.R)
 
